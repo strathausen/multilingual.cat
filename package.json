@@ -1,0 +1,14 @@
+{
+  "name": "cybersquirrel",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Johann Philipp Strathausen <philipp@stratha.us>",
+  "license": "ISC",
+  "devDependencies": {
+    "prisma2": "^2.0.0-preview020.3"
+  }
+}
